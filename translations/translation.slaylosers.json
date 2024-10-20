@@ -1,0 +1,10 @@
+{
+    "prefix": {
+        "en": "[{red}SlayLosers{default}]",
+        "ro": "[{red}SlayLosers{default}]"
+    },
+    "message": {
+		"en": "Slayed {red}{count} players{default}.",
+        "ro": "{red}{count} de jucători au fost omorâți{default}."
+	}
+}
